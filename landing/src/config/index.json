@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "Colinfo",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "COLINFO,",
+    "subtitle": "the one stop for college counselling",
+    "description": "College selection can be a tedious process, but it doesn't need to be that way. Let Colinfo guide you through the process with machine learning making everything a breeze.",
+    "img": "/assets/images/college.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:rishb369@gmail.com?subject=Help with Colinfo"
+    }
+  },
+  "product": {
+    "title": "COLINFO",
+    "items": [
+      {
+        "title": "An intuitive user interface",
+        "description": "It is our aim to provide a one stop medium to all the aspirants to help them guide through the different phases of JEE counselling, as we have all the information and statistics to give the students an idea and a clear picture about the counselling process. The students can filtrate through all the colleges by personalizing the settings and adding filters according to their convenience. To find facts about the various colleges, you don’t have to go somewhere else, because Colinfo has got you. We pride ourselves to give a one stop solution for all the after-JEE necessity.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Machine Learning",
+        "description": "Colinfo uses machine learning under the hood, to provide you with results tailored just for you. All colleges and streams are feeded into a recommendation system, which returns the courses that you can take according to your rank and provided preferences.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "",
+    "subtitle": "Technologies used",
+    "description": "Colinfo is built with industry standard tech",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Python(+ SkLearn, Pandas, Numpy, Matplotlib, Flask)",
+        "description": "Python and it's libraries are used to create and host the recommendation system model.",
+        "icon": "/assets/images/python.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript(+ Javasript)",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free (Current Plan)",
+        "price": "Rs 0",
+        "priceDetails": "per user",
+        "features": [
+          "1 user",
+          "Round 1 rankings",
+          "2 priority streams",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "Rs 199",
+        "priceDetails": "per user",
+
+        "features": [
+          "1 user",
+          "Round 1 to 6 + SPOT Round rankings",
+          "5 priority streams",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Institute",
+        "price": "Rs 4999",
+        "priceDetails": "per class",
+        "features": [
+          "50 users",
+          "Round 1 to 6 + SPOT Round rankings",
+          "5 priority streams",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "",
+        "href": "#",
+        "content": " "
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": " "
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": " "
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/rbSparky",
+      "twitter": "https://twitter.com/colinfo-doesnt-have-twitter-yet",
+      "linkedin": "https://www.linkedin.com/in/404-error/"
+    }
+  }
+}
