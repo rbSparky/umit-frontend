@@ -1,0 +1,65 @@
+[
+    {
+        "firstName": "e",
+        "lastName": "e",
+        "username": "e",
+        "hash": "$2a$10$k1zgauwq7WaYENRG8AzOi.Fnoc7aVOc0MnuP1mWrDKyhh.Sl3OyUK",
+        "id": 2,
+        "dateCreated": "2022-02-07T15:03:00.036Z",
+        "dateUpdated": "2022-02-07T15:03:00.036Z"
+    },
+    {
+        "firstName": "hi",
+        "lastName": "h",
+        "username": "ad",
+        "hash": "$2a$10$/vQiy97hEbHNr7WTM7lHDeIgwJiVav40VCF6qq/UZLPEGMxWqfdgC",
+        "id": 3,
+        "dateCreated": "2022-02-07T19:26:47.523Z",
+        "dateUpdated": "2022-02-07T19:26:47.523Z"
+    },
+    {
+        "firstName": "a",
+        "lastName": "a",
+        "username": "a",
+        "hash": "$2a$10$OIWkTcDCuS54flPKKwMYS.YWZrj396VUa9pah1Qx2i2ld39UppW5.",
+        "id": 4,
+        "dateCreated": "2022-02-07T19:27:15.414Z",
+        "dateUpdated": "2022-02-07T19:27:15.414Z"
+    },
+    {
+        "firstName": "a",
+        "lastName": "a",
+        "username": "aa",
+        "hash": "$2a$10$D33au0Pd3t0.GvPYS89T8e0X2L.lA2UGLWZu04WvKyslbDYSGfG4a",
+        "id": 5,
+        "dateCreated": "2022-02-07T19:32:31.966Z",
+        "dateUpdated": "2022-02-07T19:32:31.966Z"
+    },
+    {
+        "firstName": "rishabh",
+        "lastName": "b",
+        "username": "abcd",
+        "hash": "$2a$10$fdQ/S0.yHxt3iCVdtb3gCebl1.t7LWe4gbfSWH.VhG4frcDE2RE.e",
+        "id": 6,
+        "dateCreated": "2022-02-08T13:10:35.669Z",
+        "dateUpdated": "2022-02-08T13:10:35.669Z"
+    },
+    {
+        "firstName": "Rishabh",
+        "lastName": "B",
+        "username": "iamrisab",
+        "hash": "$2a$10$WNOYSU7SymCqviBBZiSPXu812k8BA5.bJ.BxfbAZXI9ABH2hc5dGi",
+        "id": 7,
+        "dateCreated": "2022-02-09T13:14:58.967Z",
+        "dateUpdated": "2022-02-09T13:14:58.967Z"
+    },
+    {
+        "firstName": "Rishabh",
+        "lastName": "B",
+        "username": "iamrishabh",
+        "hash": "$2a$10$6.uSM0aljWvMLAPdRFuruebDt8fQE3pNUnveNmuCn0zeQz9CVtDLa",
+        "id": 8,
+        "dateCreated": "2022-02-09T13:18:15.242Z",
+        "dateUpdated": "2022-02-09T13:18:15.242Z"
+    }
+]
