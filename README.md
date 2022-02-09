@@ -14,7 +14,15 @@ stressful now with our new JEE
 companion!
 
 ## Landing page
+![](https://github.com/rbSparky/umit-frontend/blob/main/land1.png)
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/land2.png)
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/land3.png)
+
 
 ## Authorization page
+
+![](https://github.com/rbSparky/umit-frontend/blob/main/auth1.png)
 
 ## College Filter page
