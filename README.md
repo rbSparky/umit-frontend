@@ -25,4 +25,6 @@ companion!
 
 ![](https://github.com/rbSparky/umit-frontend/blob/main/auth1.png)
 
+![](https://github.com/rbSparky/umit-frontend/blob/main/auth2.png)
+
 ## College Filter page
